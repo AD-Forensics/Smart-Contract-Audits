@@ -1,2 +1,2 @@
 # Smart-Contract-Audits
-Find reports of audited smarts contract projects
+Reports of audited smart contract projects
